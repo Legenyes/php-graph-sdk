@@ -1,10 +1,10 @@
 {
-    "name": "facebook/graph-sdk",
+    "name": "legenyes/graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
     "homepage": "https://github.com/facebook/php-graph-sdk",
-    "license": "Facebook Platform",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Facebook",
