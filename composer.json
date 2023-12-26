@@ -3,12 +3,12 @@
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
-    "homepage": "https://github.com/legenyes/php-graph-sdk",
+    "homepage": "https://github.com/seblevdev/php-graph-sdk",
     "license": "proprietary",
     "authors": [
         {
             "name": "Facebook",
-            "homepage": "https://github.com/legenyes/php-graph-sdk/contributors"
+            "homepage": "https://github.com/seblevdev/php-graph-sdk/contributors"
         }
     ],
     "require": {
