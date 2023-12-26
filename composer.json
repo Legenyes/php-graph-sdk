@@ -1,5 +1,5 @@
 {
-    "name": "legenyes/graph-sdk",
+    "name": "seblevdev/graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
